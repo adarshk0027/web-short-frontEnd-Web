@@ -1,0 +1,19 @@
+.Navbar .title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,'Times New Roman', Times, serif;
+    font-size: .9rem;
+}
+.Navbar ul{
+    font-family: 'Arial Narrow', Arial, sans-serif,'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.Navbar ul li{
+    cursor: pointer;
+}
+.Logout{
+    position: relative;
+    left: 3rem;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family:'Arial Narrow', Arial, sans-serif,'Times New Roman', Times, serif; ;
+}
